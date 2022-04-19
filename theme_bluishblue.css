@@ -19,13 +19,13 @@ table tfoot tr:last-child td {
 }
 
 a {
-  color: #F7881D;
+  color: #2980b9;
 }
 
 .alert {
-    border-left: 6px solid #F7881D;
+    border-left: 6px solid #2980b9;
 }
 
 #invoice h1 {
-    color: #F7881D;
+    color: #2980b9;
 }
