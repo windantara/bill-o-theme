@@ -1,0 +1,31 @@
+table td h3{
+  color: #9b59b6;
+}
+
+table .no {
+  background: #9b59b6;
+  color: #FFFFFF;
+}
+
+table .total {
+  background: #9b59b6;
+  color: #FFFFFF;
+}
+
+table tfoot tr:last-child td {
+    color: #9b59b6;
+    border-bottom: 1px solid #9b59b6;
+    text-shadow: 0 0 #9b59b6;
+}
+
+a {
+  color: #8e44ad;
+}
+
+.alert {
+    border-left: 6px solid #8e44ad;
+}
+
+#invoice h1 {
+    color: #8e44ad;
+}
