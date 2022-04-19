@@ -1,25 +1,24 @@
-body{background-color:black;}
 table td h3{
-  color: #ffc107 !important;
+  color: #ffc107;
   font-size: 1.2em;
   font-weight: normal;
   margin: 0 0 0.2em 0;
 }
 
 table .no {
-  background: #ffc107 !important;
+  background: #ffc107;
   text-align: center;
-  color: #FFFFFF !important;
+  color: #FFFFFF;
 }
 
 table .total {
-  background: #ffc107 !important;
-  color: #FFFFFF !important;
+  background: #ffc107;
+  color: #FFFFFF;
   text-align: right;
 }
 
 table tfoot tr:last-child td {
-    color: #ffc107 !important;
-    border-bottom: 1px solid #ffc107 !important;
-    text-shadow: 0 0 #ffc107 !important;
+    color: #ffc107;
+    border-bottom: 1px solid #ffc107;
+    text-shadow: 0 0 #ffc107;
 }
