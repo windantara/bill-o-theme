@@ -1,24 +1,24 @@
 table td h3{
-  color: #ffc107;
+  color: #ffc107 !important;
   font-size: 1.2em;
   font-weight: normal;
   margin: 0 0 0.2em 0;
 }
 
 table .no {
-  background: #ffc107;
+  background: #ffc107 !important;
   text-align: center;
-  color: #FFFFFF;
+  color: #FFFFFF !important;
 }
 
 table .total {
-  background: #ffc107;
-  color: #FFFFFF;
+  background: #ffc107 !important;
+  color: #FFFFFF !important;
   text-align: right;
 }
 
 table tfoot tr:last-child td {
-    color: #ffc107;
-    border-bottom: 1px solid #ffc107;
-    text-shadow: 0 0 #ffc107;
+    color: #ffc107 !important;
+    border-bottom: 1px solid #ffc107 !important;
+    text-shadow: 0 0 #ffc107 !important;
 }
